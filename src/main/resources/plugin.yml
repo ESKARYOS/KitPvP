@@ -1,0 +1,4 @@
+name: Kitpvp
+version: '${project.version}'
+main: dev.com.eskaryos.kitpvp.Main
+authors: [ ESKARYOS ]
